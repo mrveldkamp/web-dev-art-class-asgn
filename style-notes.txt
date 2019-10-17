@@ -1,0 +1,18 @@
+STYLE NOTES FOR "THE ART CLASS" ASSIGNMENT
+
+LAYOUT
+Use a Centered Fixed Width layout.
+The main white section has a width of 900px.  Content inside of main white section has a width of 600px.
+
+FONTS
+- Main Heading is "Quicksand" (from Google Fonts) with a font size of 50px.
+- All other fonts are "Laila" (from Google Fonts) with a default font size.
+
+COLORS
+- The coloured text uses basic "red", "green", and "purple".
+
+LINKS
+Small images in the Art Links section are links that open in a new tab
+- art gallery of alberta: "https://www.youraga.ca/"
+- edmonton arts council: "https://www.edmontonarts.ca/"
+- alberta foundation for the arts: "https://www.affta.ab.ca/"
