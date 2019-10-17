@@ -1,0 +1,22 @@
+body {
+	background-image: url('images/yellow-lined-paper.jpg');
+	
+}
+#main {
+	width:900px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 20px;
+	background-color: white;
+	margin: auto;
+	box-shadow: 5px 5px #00000080;
+}
+#mnc {
+	width:600px;
+	margin: auto;
+	font-family: 'Laila';
+}
+h1 {
+	font-family: 'Quicksand', Sans-Serif;
+	font-size: 50px;
+}
